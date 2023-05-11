@@ -9,6 +9,7 @@
 <br>
 
 > ## **_기본 요구 사항_**
+![image](https://github.com/BeginVegan/BV-Document/assets/70372082/63bf3d57-0da2-4db6-8025-41de31486a03)
 
 <br>
 
@@ -101,3 +102,6 @@ Database <--> Backend
 ## **Figma 활용**
 <br>
 접속 URL : https://www.figma.com/file/c3Uld34o4YsqENxoiAUzNX/BeginVegan?type=design&node-id=0-1&t=27MQalCo43jBtLxc-0
+
+# ERD
+![image](https://github.com/BeginVegan/BV-Document/assets/70372082/59ad4b03-a613-4855-8e10-cf5f83b1cbba)
