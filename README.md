@@ -92,3 +92,7 @@ cron --> Backend
 Database <--> Backend
 
 ```
+
+# Service Architecture
+
+![WORKFLOW.png](asset/WORKFLOW.png)
