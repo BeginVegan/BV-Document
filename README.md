@@ -96,3 +96,8 @@ Database <--> Backend
 # Service Architecture
 
 ![WORKFLOW.png](asset/WORKFLOW.png)
+
+# 기획 / 디자인
+## **Figma 활용**
+<br>
+접속 URL : https://www.figma.com/file/c3Uld34o4YsqENxoiAUzNX/BeginVegan?type=design&node-id=0-1&t=27MQalCo43jBtLxc-0
