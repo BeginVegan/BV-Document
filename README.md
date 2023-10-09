@@ -94,25 +94,26 @@
 <br>
 
 
-## ⚙️ 인프라 구성도
+## ⚙️ Devops CI/CD PipeLine 구성
 
+<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/b0107f70-3eff-46ab-afcc-9d16c8cb5f9a" width="70%">
+<br><br><br>
 
-## 🏗️ 시스템 아키텍처
+## 🏗️ System Architecture
+<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/f81447b4-0d85-4d89-b011-43fe3bf6e570" width="70%">
+<br><br><br>
 
-![WORKFLOW.png](asset/WORKFLOW.png)
-
-# 기획 / 디자인
+## 기획 / 디자인
 ## **Figma 활용**
 <br>
 
-
-![image](https://github.com/BeginVegan/BV-Document/assets/70372082/63bf3d57-0da2-4db6-8025-41de31486a03)
 접속 URL : https://www.figma.com/file/c3Uld34o4YsqENxoiAUzNX/BeginVegan?type=design&node-id=0-1&t=27MQalCo43jBtLxc-0
 
-# ERD
+## ERD
+![image](https://github.com/BeginVegan/BV-Document/assets/70372082/63bf3d57-0da2-4db6-8025-41de31486a03)
 ![image](https://github.com/BeginVegan/BV-Document/assets/70372082/59ad4b03-a613-4855-8e10-cf5f83b1cbba)
 
-
+## GIF TEST
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/e91b65d7-79d0-4265-a5b4-96c15c8328b0" width="880px">
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/fdba19d6-23e8-4cca-b5b6-fb4a3a8789e2" width="880px">
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/49521a31-afdd-4521-81d2-701aa9a848a4" width="880px">
