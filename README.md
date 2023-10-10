@@ -114,6 +114,6 @@
 ![image](https://github.com/BeginVegan/BV-Document/assets/70372082/59ad4b03-a613-4855-8e10-cf5f83b1cbba)
 
 ## GIF TEST
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/e91b65d7-79d0-4265-a5b4-96c15c8328b0" width="880px">
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/fdba19d6-23e8-4cca-b5b6-fb4a3a8789e2" width="880px">
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/49521a31-afdd-4521-81d2-701aa9a848a4" width="880px">
+<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/e91b65d7-79d0-4265-a5b4-96c15c8328b0" width="840px">
+<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/fdba19d6-23e8-4cca-b5b6-fb4a3a8789e2" width="840px">
+<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/49521a31-afdd-4521-81d2-701aa9a848a4" width="840px">
