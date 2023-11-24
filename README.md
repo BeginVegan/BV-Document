@@ -103,17 +103,20 @@
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/f81447b4-0d85-4d89-b011-43fe3bf6e570" width="70%">
 <br><br><br>
 
-## 화면 기획 / 디자인
+## 🎨 화면 기획 / 디자인
  * [🔗 Figma 접속 URL](https://www.figma.com/file/c3Uld34o4YsqENxoiAUzNX/BeginVegan?type=design&node-id=0-1&t=27MQalCo43jBtLxc-0)
 
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/1e5b973c-99e0-4fec-9c0f-1f039efe33a5" width="70%">
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/4c7331fd-0a4f-450d-ae74-45b042d716e2" width="70%">
+<br><br><br>
 
-## 이벤트 스토밍 / 도메인 도출
+## 📩 이벤트 스토밍 / 도메인 도출
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/68da7c64-8cb8-43bc-9ec5-51c794d8c4ba" width="70%">
+<br><br><br>
 
-## ERD
+## 📑 ERD
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/ca866a6f-926c-41a0-bbfb-d2295b08b81a" width="70%">
+<br><br><br>
 
 ## GIF TEST
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/e91b65d7-79d0-4265-a5b4-96c15c8328b0" width="840px">
