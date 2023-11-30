@@ -1,20 +1,21 @@
 # 🥗 Begin Vegan
 
-**주제 : 비건식당 서칭/예약/사전결제 서비스**  
 **기간 : 2023.04 ~ 2023.06**  
 **인원 : 4명** 
 <br><br>
 
-## 🎈 서비스 주요 기능  
+## 🎈 서비스 소개  
 
-> **이용자 관점**
-1. OAuth 로그인 (Kakao, google)
+비긴 비건은 비건 식당을 검색하고 예약과 사전 결제 기능을 제공하는 서비스입니다.
+
+**✨ 이용자 관점 핵심 기능 5가지**
+1. OAuth 로그인(Kakao, google)
 2. 식당 검색 및 지도 기반 주변 식당 정보 확인
 3. 식당 예약 및 결제
 4. 식당 후기 작성, 별점 평가, 식당 즐겨찾기
 5. 마이페이지 포인트/예약/결제/리뷰 정보 확인
 
-> **관리자 관점**
+**✨관리자 관점 핵심 기능 4가지**
 1. 이벤트 포인트 일괄 및 개인 지급
 2. 권한 부여 등 회원 관리
 3. 식당을 등록 및 메뉴 관리
@@ -96,29 +97,46 @@
 
 ## ⚙️ Devops CI/CD PipeLine 구성
 
+> Github Actions과 AWS의 CodeDeploy를 활용하여 CI/CD PipeLine을 구축하였습니다. 빠른 배포를 통해 보다 개발에 집중할 수 있습니다.
+
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/b0107f70-3eff-46ab-afcc-9d16c8cb5f9a" width="70%">
 <br><br><br>
 
 ## 🏗️ System Architecture
+
+> AWS의 EC2에 Spring Boot 기반 Tomcat 백엔드 서버를 배포하고, AWS RDS에 Maria DB를 두었습니다.  
+> AWS의 S3에 리액트 앱을 저장하고, AWS CloudFront로 배포하였습니다.
+
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/f81447b4-0d85-4d89-b011-43fe3bf6e570" width="70%">
 <br><br><br>
 
 ## 🎨 화면 기획 / 디자인
+
+> 비긴 비건 서비스의 화면 계층도입니다.
+
  * [🔗 Figma 접속 URL](https://www.figma.com/file/c3Uld34o4YsqENxoiAUzNX/BeginVegan?type=design&node-id=0-1&t=27MQalCo43jBtLxc-0)
 
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/1e5b973c-99e0-4fec-9c0f-1f039efe33a5" width="70%">
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/4c7331fd-0a4f-450d-ae74-45b042d716e2" width="70%">
 <br><br><br>
 
-## 📩 이벤트 스토밍 / 도메인 도출
+## 📩 이벤트 스토밍
+
+> 이벤트 스토밍을 통해 도메인을 도출하였습니다.
+
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/68da7c64-8cb8-43bc-9ec5-51c794d8c4ba" width="70%">
 <br><br><br>
 
 ## 📑 ERD
+
+> 도출된 도메인을 바탕으로 DB 스키마를 설계하였습니다.
+
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/ca866a6f-926c-41a0-bbfb-d2295b08b81a" width="70%">
 <br><br><br>
 
 ## 🚀 서비스 화면
+
+
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/e91b65d7-79d0-4265-a5b4-96c15c8328b0" width="840px">
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/fdba19d6-23e8-4cca-b5b6-fb4a3a8789e2" width="840px">
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/49521a31-afdd-4521-81d2-701aa9a848a4" width="840px">
