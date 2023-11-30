@@ -139,49 +139,100 @@
 <details>
  <summary> ✨ 이용자 관점 </summary>
 
-### ☑︎ https 접속
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/beb081a0-72d7-430a-85b1-ffeb95a1c609" width="840px">
+ ### ☑︎ https 접속
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/beb081a0-72d7-430a-85b1-ffeb95a1c609" width="840px">
+ 
+ ### ☑︎ 반응형 화면
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/99701d21-6e1f-415e-8726-8372281ed4e8" width="840px">
+ 
+ ### ☑︎ 로그인
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/feef76d6-f95b-484b-b1a4-bf685546670c" width="840px">
+ 
+ ### ☑︎ 인기 식당 리스트
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/aa1ecfc3-9afc-466d-84ab-e1e16c54b638" width="840px">
+ 
+ ### ☑︎ 식당 검색
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/a257f76b-eadc-4b09-80a0-2e4e0cc9178b" width="840px">
+ 
+ ### ☑︎ 검색 결과 필터링
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/c528713c-a40f-43fb-bb34-f51e6c771f8d" width="840px">
+ 
+ ### ☑︎ 식당 정보(사이드)
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/6e9ba047-b88a-4392-a5ba-e251e1daccc7" width="840px">
+ 
+ ### ☑︎ 식당 상세 페이지
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/145e1c8c-051c-450e-9b03-0989ecc3f505" width="840px">
+ 
+ ### ☑︎ 식당 예약
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/ceb4666f-4def-402e-be93-6fb630bd368b" width="840px">
+ 
+ ### ☑︎ 예약 결제
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/d11bfb5d-c0ad-4d63-ab99-265a72d4f6ab" width="840px">
+ 
+ ### ☑︎ 마이페이지
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/94c0eab7-3963-4758-bb1a-9e7c2dbc2b8a" width="840px">
+ 
+ ### ☑︎ 마이페이지 메인
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/429b6b14-5442-4d1e-b608-c6ad4315e340" width="840px">
+ 
+ ### ☑︎ 리뷰 작성
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/df64dc83-b6c0-4a31-95ff-7982c3e2ac08" width="840px">
+ 
+ ### ☑︎ 리뷰 관리
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/262a2f11-b4e0-4e74-914a-e2a24aafa772" width="840px">
+ 
+ ### ☑︎ 즐겨찾기
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/62712ef5-9269-42b3-a7e8-afc5970c218d" width="840px">
+</details>
 
-### ☑︎ 반응형 화면
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/99701d21-6e1f-415e-8726-8372281ed4e8" width="840px">
 
-### ☑︎ 인기 식당 리스트
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/aa1ecfc3-9afc-466d-84ab-e1e16c54b638" width="840px">
+<details>
+ <summary> ✨ 관리자 관점 </summary>
+ 
+ ### ☑︎ 관리자 페이지
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/5217ad62-a7fe-46b2-9428-30e7c76316c0" width="840px">
 
-### ☑︎ 식당 검색
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/a257f76b-eadc-4b09-80a0-2e4e0cc9178b" width="840px">
+ ### ☑︎ 관리 페이지 - 식당
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/a93e4e0b-a58b-47b7-a516-57b9484c158d" width="840px">
 
-### ☑︎ 검색 결과 필터링
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/c528713c-a40f-43fb-bb34-f51e6c771f8d" width="840px">
+ ### ☑︎ 식당 검색
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/fdfb94a6-2c73-4a17-8b9d-dbc38eb0910e" width="840px">
 
-### ☑︎ 식당 정보(사이드)
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/6e9ba047-b88a-4392-a5ba-e251e1daccc7" width="840px">
+ ### ☑︎ 식당 등록
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/a1c69557-9493-4614-abc6-abbf5138a570" width="840px">
+ 
+ ### ☑︎ 식당 등록 - 주소
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/2842cbbc-07e2-4ede-9b62-f25d38f6c336" width="840px">
+ 
+ ### ☑︎ 식당 등록 - 정보
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/9531bde6-3f51-4a06-a77b-46cd751f191d" width="840px">
+ 
+ ### ☑︎ 식당 등록 - 메뉴
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/35f8935d-b971-41b0-8b8d-730c6d57f7a2" width="840px">
+ 
+ ### ☑︎ 식당 수정
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/15941fd7-9a4a-4a90-835e-eb85c65054e9" width="840px">
+ 
+ ### ☑︎ 식당 삭제
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/80c388f0-2c3c-4905-bcb6-91794ab585b0" width="840px">
 
-### ☑︎ 식당 상세 페이지
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/145e1c8c-051c-450e-9b03-0989ecc3f505" width="840px">
+ 
+ ### ☑︎ 관리 페이지 - 회원
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/89a3911f-c766-42ea-8835-1eabe7c13e93" width="840px">
+ 
+ ### ☑︎ 회원 검색
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/e6dac93a-4af6-4883-8413-43025f165086" width="840px">
+ 
+ ### ☑︎ 권한 부여
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/b6787cc3-49fb-4123-b46f-1d01b546bd82" width="840px">
+ 
+ ### ☑︎ 포인트 지급
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/d10d092b-0963-4f6f-9d67-704da1fd4763" width="840px">
 
-### ☑︎ 로그인
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/feef76d6-f95b-484b-b1a4-bf685546670c" width="840px">
-
-### ☑︎ 식당 예약
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/ceb4666f-4def-402e-be93-6fb630bd368b" width="840px">
-
-### ☑︎ 예약 결제
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/d11bfb5d-c0ad-4d63-ab99-265a72d4f6ab" width="840px">
-
-### ☑︎ 마이페이지
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/94c0eab7-3963-4758-bb1a-9e7c2dbc2b8a" width="840px">
-
-### ☑︎ 마이페이지 메인
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/429b6b14-5442-4d1e-b608-c6ad4315e340" width="840px">
-
-### ☑︎ 리뷰 작성
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/df64dc83-b6c0-4a31-95ff-7982c3e2ac08" width="840px">
-
-### ☑︎ 리뷰 관리
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/262a2f11-b4e0-4e74-914a-e2a24aafa772" width="840px">
-
-### ☑︎ 즐겨찾기
-<img src="https://github.com/BeginVegan/BV-Document/assets/97079985/62712ef5-9269-42b3-a7e8-afc5970c218d" width="840px">
-
+ 
+ ### ☑︎ 관리 페이지 - 예약
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/47e26527-c4f0-407f-bead-678f8448ce11" width="840px">
+ 
+ ### ☑︎ 예약 검색
+ <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/7d958532-1b04-404f-96db-a2e6213d94db" width="840px">
 </details>
