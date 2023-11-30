@@ -136,6 +136,9 @@
 
 ## 🚀 서비스 화면
 
+<details>
+ <summary> ✨ 이용자 관점 </summary>
+
 ### ☑︎ https 접속
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/beb081a0-72d7-430a-85b1-ffeb95a1c609" width="840px">
 
@@ -180,3 +183,5 @@
 
 ### ☑︎ 즐겨찾기
 <img src="https://github.com/BeginVegan/BV-Document/assets/97079985/62712ef5-9269-42b3-a7e8-afc5970c218d" width="840px">
+
+</details>
